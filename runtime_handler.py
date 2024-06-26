@@ -4,7 +4,8 @@ try:
     from ltermio import Key
 except ModuleNotFoundError:
     import os
-    os.system("pip install ltermio keyboard")
+    print("ltermio not installed. instsklung right now")
+    os.system("pip install -r requirements.txt")
 
 
 import sys
