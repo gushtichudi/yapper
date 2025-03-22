@@ -1,2 +1,1 @@
-# yapper
-discord bot that yaps.
+ts is abandoned. go somewhere else
